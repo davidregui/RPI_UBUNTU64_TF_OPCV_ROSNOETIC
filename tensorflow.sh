@@ -29,7 +29,7 @@ sudo -H pip3 install h5py==3.1.0;
 pip3 install gdown;
 # download the wheel
 # versiones de wheel en https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit
-gdown https://drive.google.com/u/0/uc?id=13_otGSGrsE1atBB2RjcPhOvONErKSFef&export=download;
+gdown https://drive.google.com/u/0/uc?id=12f3xm6dtd1hEsbQpnct68uby2jULtNW5&export=download;
 # install TensorFlow 2.6.0 (± 68 min @1500 MHz)
 sudo -H pip3 install tensorflow-2.6.0-cp38-cp38-linux_aarch64.whl;
 
