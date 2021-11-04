@@ -18,7 +18,7 @@ sudo apt-get install libatomic1 libatlas-base-dev zip unzip;
 pip install gdown;
 
 # download the tarball
-gdown https://drive.google.com/u/0/uc?id=1vxsDl1Xfs3ftdHs04LH6hnLuGnxG8GmW&export=download;
+gdown https://drive.google.com/u/0/uc?id=1cvt7OEIfdA5NelGk_aq-P90i_nt0hAe9&export=download;
 
 # unpack the ball
 libtensorflow_cp38_64OS_2_6_0.tar.gz;
