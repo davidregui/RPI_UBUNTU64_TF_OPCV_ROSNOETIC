@@ -1,5 +1,6 @@
 #!/bin/bash
 #clonamos el repositorio con los scripts
+sudo apt install git
 git clone https://github.com/davidregui/RPI_UBUNTU64_TF_OPCV_ROSNOETIC.git
 #nos movemos al repositorio
 cd RPI_UBUNTU64_TF_OPCV_ROSNOETIC/
