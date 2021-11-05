@@ -6,6 +6,6 @@ git clone https://github.com/davidregui/RPI_UBUNTU64_TF_OPCV_ROSNOETIC.git
 cd RPI_UBUNTU64_TF_OPCV_ROSNOETIC/
 sh escritorio.sh
 sh ROS_noetic.sh
-sh opencv_forma1(recomendado).sh
+sh opencv_forma1.sh
 sh tensorflow.sh
 sh tensorflow_c++API.sh 
